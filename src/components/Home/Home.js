@@ -30,7 +30,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> SOUMYAJIT BEHERA</strong>
+                <strong className="main-name"> SWASTIK MUKHERJEE</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
@@ -81,7 +81,7 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/soumyajit4419/"
+                  href="https://www.linkedin.com/in/swastik-m07"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -89,7 +89,7 @@ function Home() {
                   <FaLinkedinIn />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://www.instagram.com/soumyajit4419"
                   target="_blank"
@@ -98,7 +98,7 @@ function Home() {
                 >
                   <AiFillInstagram />
                 </a>
-              </li>
+              </li> */}
             </ul>
           </Col>
         </Row>
