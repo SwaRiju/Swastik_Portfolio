@@ -42,6 +42,9 @@ This portfolio is designed to represent my **technical skills, career journey, a
 
 https://swastik-mukherjee-portfolio.vercel.app/
 
+<img width="1916" height="913" alt="image" src="https://github.com/user-attachments/assets/f08a037c-6049-4210-92e4-83b34722097b" />
+
+
 ---
 
 ## 🚀 Getting Started
