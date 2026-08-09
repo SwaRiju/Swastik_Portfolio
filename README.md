@@ -40,7 +40,7 @@ This portfolio is designed to represent my **technical skills, career journey, a
 
 ## 📸 Preview
 
-_Add screenshots or a live demo link here_
+https://swastik-mukherjee-portfolio.vercel.app/
 
 ---
 
