@@ -1,8 +1,5 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { SiNextdotjs, SiSolidity } from "react-icons/si";
-import { FaRust } from "react-icons/fa";
-import Go from "../../Assets/TechIcons/go.svg";
 import Javascript from "../../Assets/TechIcons/Javascript.svg";
 import Node from "../../Assets/TechIcons/Node.svg";
 import ReactIcon from "../../Assets/TechIcons/React.svg";
@@ -15,7 +12,6 @@ import Mongo from "../../Assets/TechIcons/Mongo.svg";
 import SQL from "../../Assets/TechIcons/SQL.svg";
 import MySQL from "../../Assets/TechIcons/MySql.png";
 import Spring from "../../Assets/TechIcons/Spring-Boot.png";
-import Kubernates from "../../Assets/TechIcons/Kubernates.svg";
 import CSS from "../../Assets/TechIcons/CSS.png";
 import Postman from "../../Assets/TechIcons/Postman.svg";
 import AWS from "../../Assets/TechIcons/AWS.svg";
